@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GitHub Viewer Android</string>
+    <string name="search_name">GitHub Viewer</string>
+    <string name="username">Username</string>
+    <string name="search">Search</string>
+    <string name="error_enter_username">Por favor, digite um Username.</string>
+</resources>
