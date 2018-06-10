@@ -1,16 +1,17 @@
-package com.ilourenco.githubviewerandroid
+package com.ilourenco.githubviewerandroid.Views.Adapter
 
-import android.app.ProgressDialog
 import android.content.Context
 import android.content.Intent
 import android.os.Bundle
 import android.support.v7.app.AlertDialog
-import android.util.Log
 import android.view.MenuItem
 import android.view.View
-import android.widget.ImageView
 import android.widget.TextView
-import android.widget.Toast
+import com.ilourenco.githubviewerandroid.App.BaseAppCompatActivity
+import com.ilourenco.githubviewerandroid.App.RetrofitInitializer
+import com.ilourenco.githubviewerandroid.Controllers.ReposAdapter
+import com.ilourenco.githubviewerandroid.Models.Repos
+import com.ilourenco.githubviewerandroid.R
 import com.squareup.picasso.Picasso
 import de.hdodenhof.circleimageview.CircleImageView
 import kotlinx.android.synthetic.main.activity_list_respos.*

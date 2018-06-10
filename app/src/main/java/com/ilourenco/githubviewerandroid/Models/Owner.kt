@@ -1,4 +1,4 @@
-package com.ilourenco.githubviewerandroid
+package com.ilourenco.githubviewerandroid.Models
 
 /**
  * Created by itamarlourenco on 10/06/2018.

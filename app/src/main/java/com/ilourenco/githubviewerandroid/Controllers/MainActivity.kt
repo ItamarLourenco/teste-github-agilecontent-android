@@ -1,9 +1,11 @@
-package com.ilourenco.githubviewerandroid
+package com.ilourenco.githubviewerandroid.Controllers
 
 import android.os.Bundle
-import android.support.v7.app.AlertDialog
 import android.text.TextUtils
 import android.widget.Toast
+import com.ilourenco.githubviewerandroid.App.BaseAppCompatActivity
+import com.ilourenco.githubviewerandroid.Views.Adapter.ListRepos
+import com.ilourenco.githubviewerandroid.R
 import kotlinx.android.synthetic.main.activity_main.*
 
 

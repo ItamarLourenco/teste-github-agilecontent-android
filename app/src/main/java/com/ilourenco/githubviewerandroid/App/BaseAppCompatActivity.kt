@@ -1,4 +1,4 @@
-package com.ilourenco.githubviewerandroid
+package com.ilourenco.githubviewerandroid.App
 
 import android.os.Bundle
 import android.os.PersistableBundle

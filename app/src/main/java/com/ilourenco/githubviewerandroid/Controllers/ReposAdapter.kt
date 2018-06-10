@@ -1,4 +1,4 @@
-package com.ilourenco.githubviewerandroid
+package com.ilourenco.githubviewerandroid.Controllers
 
 import android.content.Context
 import android.view.LayoutInflater
@@ -6,6 +6,8 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.BaseAdapter
 import android.widget.TextView
+import com.ilourenco.githubviewerandroid.Models.Repos
+import com.ilourenco.githubviewerandroid.R
 
 /**
  * Created by itamarlourenco on 10/06/2018.

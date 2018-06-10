@@ -1,8 +1,9 @@
-package com.ilourenco.githubviewerandroid
+package com.ilourenco.githubviewerandroid.App
 
 /**
  * Created by itamarlourenco on 10/06/2018.
  */
+import com.ilourenco.githubviewerandroid.App.Service.ReposService
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 
